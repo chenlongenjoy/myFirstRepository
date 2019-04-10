@@ -6,4 +6,8 @@ public class HelloWorld {
 		System.out.println("hello world git....");
 	}
 
+	public static void m1(){
+		int i=2;
+		System.out.println("i="+i);
+	}
 }
